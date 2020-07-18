@@ -24,9 +24,10 @@ Escolha um idioma: português | español | inglês
 🌱 También estoy viendo shell cript que es muy importante en la área en que trabajo. 🌱</br>
 </br>
 💬 Sobre mí: 💬</br>
-Soy mucho creativa, estoy siempre estudiando, leyendo, yo admito que tengo un enamorado por tecnología y medicina jajajja, por cuenta de ello estoy trabajando en un proyecto científico que combina IA con salud.</br>
+Soy mucho creativa, estoy siempre estudiando, leyendo y viajando. Yo admito que tengo un enamorado por tecnología y medicina jajaja, por cuenta de ello estoy trabajando en un proyecto científico que combina IA con salud.</br>
 </br>
 📫 Como encontrarme heuehuehueh:</br>
 https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatiask@gmail.com
+</br>
 </br>
 ⚡ Un hecho: yo viajo en la mayonesa hahahahha ⚡
