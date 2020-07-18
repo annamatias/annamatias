@@ -27,7 +27,6 @@ Escolha um idioma: português | español | inglês
 Soy mucho creativa, estoy siempre estudiando, leyendo, yo admito que tengo un enamorado por tecnología y medicina jajajja, por cuenta de ello estoy trabajando en un proyecto científico que combina IA con salud.</br>
 </br>
 📫 Como encontrarme heuehuehueh:</br>
-</br>
 https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatiask@gmail.com
 </br>
 ⚡ Un hecho: yo viajo en la mayonesa hahahahha ⚡
