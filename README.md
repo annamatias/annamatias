@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Escolha um idioma: português | español | inglês 
--->
 
 😄 Yo soy Anna, tengo 18 años. </br>
 🔭 Estoy trabajando en análisis de sistemas en la multinacional italiana, Engineering del Brasil. 🔭</br>
@@ -31,3 +30,18 @@ https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatias
 </br>
 </br>
 ⚡ Un hecho: yo viajo en la mayonesa hahahahha ⚡
+-->
+
+😄 Oii, sou Anna, tenho 18 anos e trabalho com análise de sistemas.</br>
+🔭 Trabalho na multinaciona italiana, Engineering do Brasil. 🔭</br>
+🌱 Curso na faculdade Impacta de Tecnologia, Análise e Desenvolvimento de Sistemas. Me formo no final deste ano! 🌱</br>
+🌱 No momento estou centrada na linguagem python e por aqui você encontrará exercícios e projetos desenvolvidos. 🌱</br>
+</br>
+💬 Sobre mim: 💬</br>
+Sou muito criativa, estou sempre viajando, lendo, tentando passar meus conhecimentos obtidos de alguma forma e fazendo várias outras coisas. Tenho uma paixão por tecnologia e tudo que envolva a medicina, estou desenvolvendo um projeto cientifico que combina IA com saúde. Em breve postarei algo mais concreto sobre este assunto.
+</br>
+📫 Como me achar, rsss</br>
+https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatiask@gmail.com
+</br>
+</br>
+⚡ Um fato: Faça o que você ama, com muita vontade!!! Não se limite a nada, isso pode te frustar, e o objetivo é ganhar o mundo e ser feliz!!! ⚡
