@@ -39,9 +39,8 @@ https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatias
 </br>
 💬 Sobre mim: 💬</br>
 Sou muito criativa, estou sempre viajando, lendo, tentando passar meus conhecimentos obtidos de alguma forma e fazendo várias outras coisas. Tenho uma paixão por tecnologia e tudo que envolva a medicina, estou desenvolvendo um projeto cientifico que combina IA com saúde. Em breve postarei algo mais concreto sobre este assunto.
-</br>
-📫 Como me achar, rsss</br>
+</br> 
+📫 Como me achar: 
 https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatiask@gmail.com
-</br>
 </br>
 ⚡ Um fato: Faça o que você ama, com muita vontade!!! Não se limite a nada, isso pode te frustar, e o objetivo é ganhar o mundo e ser feliz!!! ⚡
