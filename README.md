@@ -38,7 +38,7 @@ https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatias
 🌱 No momento estou centrada na linguagem python e por aqui você encontrará exercícios e projetos desenvolvidos. 🌱</br>
 </br>
 💬 Sobre mim: 💬</br>
-Sou muito criativa, estou sempre viajando, lendo, tentando passar meus conhecimentos obtidos de alguma forma e fazendo várias outras coisas. Tenho uma paixão por tecnologia e tudo que envolva a medicina, estou desenvolvendo um projeto cientifico que combina IA com saúde. Em breve postarei algo mais concreto sobre este assunto.
+Sou muito criativa, estou sempre viajando, lendo, tentando passar meus conhecimentos obtidos de alguma forma e fazendo várias outras coisas. Tenho uma paixão por tecnologia e tudo que envolva a vida.
 </br> 
 📫 Como me achar: 
 https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatiask@gmail.com
