@@ -33,7 +33,7 @@ https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatias
 🔭 Trabalho na multinaciona italiana, Engineering do Brasil. 🔭</br>
 -->
 
-😄 Oii, sou Anna, tenho 19 anos e trabalho com análise de sistemas.</br>
+😄 Oii, sou Anna, tenho 19 anos e trabalho com análise e desenvolvimento de sistemas.</br>
 🌱 Cursei na faculdade Impacta de Tecnologia, Análise e Desenvolvimento de Sistemas e me formei no final de novembro de 2020.🌱</br>
 🌱 No momento estou centrada na linguagem python e por aqui você encontrará exercícios e projetos desenvolvidos. 🌱</br>
 </br>
