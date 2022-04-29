@@ -33,8 +33,8 @@ https://www.linkedin.com/in/anna-karoliny-matias-dos-santos/  e-mail: annamatias
 🔭 Trabalho na multinaciona italiana, Engineering do Brasil. 🔭</br>
 -->
 
-😄 Oii, sou Anna, tenho 20 anos e trabalho como Engenheira de Dados na XP Inc.</br>
-🌱 Cursei na faculdade Impacta de Tecnologia, Análise e Desenvolvimento de Sistemas e me formei no final de novembro de 2020.🌱</br>
+😄 Oii, sou a Anna Karol, tenho 20 anos e sou Engenheira de Dados. Atualmente trabalho na XP Inc.</br>
+Cursei na faculdade Impacta de Tecnologia, Análise e Desenvolvimento de Sistemas e me formei no segundo semestre de 2020.</br>
 <!--🌱 No momento estou centrada na linguagem python e por aqui você encontrará exercícios e projetos desenvolvidos. 🌱</br>-->
 </br>
 💬 Sobre mim: 💬</br>
