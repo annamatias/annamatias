@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna Karoliny</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamatias&label=Profile%20views&color=0e75b6&style=flat" alt="annamatias" /> </p>
 
-Olá, tudo bem com vc? Sou a Anna Karol, tenho 20 anos, sou graduada em Análise de Sistemas e estou realizando a minha Pós Graduação na Área de Big Data.  Atualmente trabalho como Engenheira de Dados na XP Inc. na Business Unit de Crédito.
+Olá, tudo bem com vc? Sou a Anna Karol, tenho 20 anos, sou graduada em Análise de Sistemas.
+Atualmente trabalho como Engenheira de Dados na XP Inc. na Business Unit de Crédito.
 
 Compartilho aqui minhas experiências e aprendizados.
 
