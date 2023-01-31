@@ -21,6 +21,3 @@ Compartilho aqui minhas experiências e aprendizados.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annamatias&show_icons=true&locale=en&layout=compact" alt="annamatias" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annamatias&show_icons=true&locale=en" alt="annamatias" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annamatias&" alt="annamatias" /></p>
