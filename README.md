@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">Sou a Anna Karoliny, trabalho como Data Engineer ✨</div>  
+### <div align="center">Olá!! Sou a Anna Karoliny, seja bem vindo ✨</div>  
   
 
 Paulistana, 21 anos, Graduada em Análise de Sistemas e Pós-Graduanda em Data Analytics.  
