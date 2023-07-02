@@ -1,27 +1,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamatias&label=Profile%20views&color=0e75b6&style=flat" alt="annamatias" /> </p>
 
-### <div align="center">Olá!! Sou a Anna Karoliny, seja bem vindxs ✨</div>  
+### <div align="center">Olá!! Sou a Anna Karoliny ✨</div>  
   
 
-Paulistana, 21 anos, Graduada em Análise de Sistemas e Pós-Graduanda em Data Analytics.  
-  
-
-- Atualmente trabalho como Engenheira de Dados na XP Inc. mas também atuo de forma cross como Big Data Developer
-
-- Sou mentora na área de dados, professora e conteudista EaD na Faculdade Impacta de Tecnologia
-  
+Paulistana, 21 anos, Graduada em Análise de Sistemas, Pós-Graduanda em Data Analytics, Mentora nas horas livres, Professora Ead em DataOps em Graduação e Data Engineer no Banco XP.  
 
 <br/>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anna-karoliny-matias-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-karoliny-matias-dos-santos/" height="30" width="40" /></a>
-<a href="https://kaggle.com/annakaroliny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annakaroliny" height="30" width="40" /></a>
-<a href="https://www.instagram.com/annakarolinyofc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annakmatias" height="30" width="40" /></a>
-<a href="https://www.behance.net/annamatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="annamatias" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anna.dataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annakmatias" height="30" width="40" /></a>
 <a href="https://medium.com/@annakmatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annakmatias" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/annakmatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annakmatias" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
