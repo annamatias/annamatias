@@ -4,7 +4,7 @@
 ### <div align="center">Olá!! Sou a Anna Karoliny ✨</div>  
   
 
-Paulistana, 21 anos, Graduada em Análise de Sistemas, Pós-Graduanda em Data Analytics, Mentora nas horas livres, Professora Ead em DataOps em Graduação e Data Engineer no Banco XP.  
+Paulistana, 21 anos, Graduada em Análise de Sistemas, Pós-Graduanda em Data Analytics, Mentora nas horas livres, Professora Ead em DataOps (Curso de Graduação) e Data Engineer no Banco XP Inc.  
 
 <br/>  
 
