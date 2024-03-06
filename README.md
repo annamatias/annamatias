@@ -11,7 +11,7 @@ Paulistana, 22 anos, Graduada em Análise de Sistemas, Mentora nas horas livres,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anna-karoliny-matias-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-karoliny-matias-dos-santos/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/annaskaroliny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annakmatias" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/annaskaroliny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annakmatias" height="30" width="40" /></a> -->
 <a href="https://medium.com/@annakmatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annakmatias" height="30" width="40" /></a>
 </p>
 
