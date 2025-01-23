@@ -4,7 +4,7 @@
 ### <div align="center">Olá!! Sou a Anna Karoliny ✨</div>  
   
 
-Paulistana, 22 anos, Graduada em Análise de Sistemas, Dedicada na especialização (MBA Data Engineering), Mentora nas horas livres, Professora Universitária Ead em DataOps e Data Engineer.  
+Paulistana, 23 anos, Graduada em Análise de Sistemas, Dedicada na especialização (MBA Data Engineering), Mentora nas horas livres, Professora Universitária Ead em DataOps e Data Engineer.  
 
 <br/>  
 
