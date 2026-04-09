@@ -1,10 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamatias&label=Profile%20views&color=0e75b6&style=flat" alt="annamatias" /> </p>
 
-### <div align="center">Olá!! Sou a Anna Karoliny ✨</div>  
-  
-
-Paulistana, 23 anos, Graduada em Análise de Sistemas, Dedicada na especialização (MBA Data Engineering), Mentora nas horas livres, Professora Universitária Ead em DataOps e Data Engineer.  
+### <div align="center">Anna Karoliny ✨</div>  
 
 <br/>  
 
